@@ -58,7 +58,7 @@ const swaggerOptions = {
       contact: {
         name: "Green Grocery"
       },
-      servers: ["http://localhost:5000"]
+      servers: ["/"]
     }
   },
   // ['.routes/*.js']
